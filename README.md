@@ -1,1 +1,3 @@
-# Use: Retrieving company data from Simply Hired & Rise.com (Angel.co blocks data scraping) and making csv files from them
+##### Use: Retrieving company, company bio info from Simply Hired & Rise.com and making csv files
+
+##### More functionality to come for better integration into spreadsheets
